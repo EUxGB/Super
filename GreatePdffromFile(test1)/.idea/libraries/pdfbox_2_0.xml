@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pdfbox-2.0">
+    <CLASSES>
+      <root url="file://D:/Program Files/JetBrains/MyLibrary/pdfbox-2.0.19only" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Program Files/JetBrains/MyLibrary/pdfbox-2.0.19only" recursive="false" />
+  </library>
+</component>

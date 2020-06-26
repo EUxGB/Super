@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Lib">
+    <CLASSES>
+      <root url="file://D:/Program Files/JetBrains/MyLibrary/PDFNetC64/Lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://D:/Program Files/JetBrains/MyLibrary/PDFNetC64/Lib" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://D:/Program Files/JetBrains/MyLibrary/PDFNetC64/Lib" recursive="false" />
+  </library>
+</component>
